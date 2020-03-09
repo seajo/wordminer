@@ -1,7 +1,8 @@
 .vscode/**
 audio_files/**
 audio_venv/**
-**.wav
+*.wav
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
